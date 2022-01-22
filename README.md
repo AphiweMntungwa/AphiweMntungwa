@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AphiweMntungwa
 - 👀 I’m interested in Programming and Philosophy.
-- 🌱 I’m currently learning SEO
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email aphiwemntungwa66@gmail.com
 
