@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AphiweMntungwa
 - 👀 I’m interested in Programming and Philosophy.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me by email aphiwemntungwa66@gmail.com
